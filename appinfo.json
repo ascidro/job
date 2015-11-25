@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "frank.steinbach@gmx.net",
+    "longName": "job november",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/fleygletur_a_03.png",
+                "menuIcon": true,
+                "name": "png",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "november",
+    "uuid": "150b2acf-38d9-44b8-b29c-c20456ede8e2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
